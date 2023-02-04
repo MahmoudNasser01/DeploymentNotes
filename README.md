@@ -2,6 +2,10 @@
 this repo is for my deployment notes
 
 
+# install fab for django4.0
+pip install git+https://github.com/ahmedyasserays/fabric.git@ff01d6b7c65ca6477261a92765e25b5f36fa8dfa
+
+
 
 Step 1:
 create directory called `infrastructure/`
